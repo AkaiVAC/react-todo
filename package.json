@@ -1,0 +1,18 @@
+{
+	"name": "react-todo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Arun Chithambaram",
+	"license": "MIT",
+	"scripts": {
+		"start": "parcel ./public/index.html --open",
+		"build": "parcel build ./public/index.html --experimental-scope-hoisting"
+	},
+	"dependencies": {
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1"
+	},
+	"devDependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
