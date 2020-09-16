@@ -11,7 +11,7 @@
 	--bg-color: #2b2b2b;
 	--text-color: rgb(214, 214, 214);
 	--primary-color: rgb(255, 14, 86);
-	--secondary-color: black;
+	--secondary-color: whitesmoke;
 	--accent: rgba(255, 14, 86, 0.6);
 	--shadow: 0 2px 2px rgb(5, 42, 255);
 	--border: 3px solid var(--accent);
