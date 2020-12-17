@@ -2,7 +2,7 @@
 	"name": "react-todo",
 	"version": "1.0.0",
 	"main": "index.js",
-	"author": "Arun Chithambaram",
+	"author": "Arun",
 	"license": "MIT",
 	"scripts": {
 		"start": "parcel ./public/index.html --open",
